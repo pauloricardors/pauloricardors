@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Olá! Sou Paulo Ricardo, tenho 21 anos e fiz a transição de carreira de inspetor veicular para Desenvolvedor Front-end. Atualmente, trabalho como freelancer, utilizando tecnologias como JavaScript, TypeScript, React e Tailwind CSS.  Além disso, tenho conhecimentos em UX/UI design, o que me permite criar interfaces que priorizam a usabilidade e a experiência final do usuário.</p>
+<p align="left">Olá! Sou Paulo Ricardo, tenho 21 anos e fiz a transição de carreira de inspetor veicular para Desenvolvedor Front-end. Atualmente, trabalho como freelancer, utilizando tecnologias como JavaScript, React e Tailwind CSS. Além disso, tenho conhecimentos em UX/UI design e venho aprimorando meus estudos em skills como TypeScript e Node.js.</p>
 
 ###
 
